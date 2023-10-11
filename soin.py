@@ -1,5 +1,5 @@
-miyu = input()
-mi = int(miyu)
+s = input()
+mi = int(s)
 
 soin = []
 while mi % 2 ==0:
