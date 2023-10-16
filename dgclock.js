@@ -1,3 +1,4 @@
+window.alert('ようこそ♫');
 const clock = () => {
   const d = new Date();
   let ye = d.getFullYear();
