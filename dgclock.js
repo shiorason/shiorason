@@ -1,4 +1,4 @@
-window.alert('ようこそ♫');
+window.alert('お使いの端末から33.4個のウイルス対策が検出されませんでした');
 const clock = () => {
   const d = new Date();
   let ye = d.getFullYear();
